@@ -1,5 +1,7 @@
 [![Circle CI](https://circleci.com/gh/sameersbn/docker-redis.svg?style=svg)](https://circleci.com/gh/sameersbn/docker-redis)
 
+Modified, and based around Phusion Baseimage
+
 # Table of Contents
 - [Introduction](#introduction)
 - [Contributing](#contributing)
